@@ -1,0 +1,21 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Large media files (keep screenshots, exclude heavy videos)
+*.mp4
+
+# VS Code user-specific settings (keep tasks.json for build info)
+.vscode/launch.json
+.vscode/c_cpp_properties.json
+.vscode/.browse.VC.db*
+
+# Windows OS junk
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# MinGW / MSYS2 generated
+*.d
